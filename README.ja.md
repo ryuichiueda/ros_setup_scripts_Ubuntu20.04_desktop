@@ -1,6 +1,6 @@
-# ros_setup_scripts_Ubuntu18.04
+# ros_setup_scripts_Ubuntu20.04
 
-ROS（Melodic Morenia）をUbuntu 18.04に一発でインストール・セットアップするシェルスクリプトです。
+ROS（Melodic Morenia）をUbuntu 20.04に一発でインストール・セットアップするシェルスクリプトです。
 
 # scripts
 
@@ -26,5 +26,5 @@ Ubuntuに日本語環境をセットアップして、roscoreがLANG=C無しで�
 
 以下で検証しました。
 
-* Ubuntu Desktop 18.04
+* Ubuntu Desktop 20.04
 
